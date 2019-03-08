@@ -1,0 +1,7 @@
+url,validationText,socketTimeout
+https://www.f-secure.com,farid,60
+https://google.com,search,60
+https://yle.fi/news,saa,60
+https://farid.fi/news,saa,60
+https://www.f-secure.com/farid,ok,60
+https://www.gov.au,australia,60
